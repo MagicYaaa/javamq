@@ -16,13 +16,14 @@
 最终得分标准=个人得分+小组最好成绩+PPT汇报
 # 代码提交方式
 通过git提交, 我们在https://gitee.com/托管代码  
-代码框架:https://gitee.com/mocyx/javamq  
+代码框架:https://gitee.com/chaowwwww/javamq    
 你需要:   
 1 注册一个账号, fork这个项目, 作为你的git地址     
 2 在管理界面-项目成员管理-添加项目成员, 添加一个开发者:chaowwwww    
 3 在管理界面, 将项目设置为非公开的    
 然后在评测网站上设置git地址（注意设置的为SSH地址）    
-然后点"提交评测"来提交  
+然后点"提交评测"来提交    
+补充资料（git精简教程https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000） 
 
 # 时间表
 即日-5.18   准备阶段       
