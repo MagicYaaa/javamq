@@ -47,10 +47,10 @@ Producer的flush(), 发送结束时会调用一次
 Consumer的attachQueue(queue, topics) 为Queue绑定Topics  
 Consumer的poll()  拉消息  
 # 评测逻辑:
-1 git clone下载代码
-2 push阶段: 四个线程同时push消息
-3 kill程序,清理页面缓存
-4 pull阶段: 四个线程同时pull消息
+1 git clone下载代码    
+2 push阶段: 四个线程同时push消息    
+3 kill程序,清理页面缓存    
+4 pull阶段: 四个线程同时pull消息    
 5 以push和pull的总时间作为排名依据
 
 push和pull都有时间限制
