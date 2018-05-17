@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>pku</groupId>
-    <artifactId>pku</artifactId>
+    <artifactId>answer</artifactId>
     <version>1</version>
 
     <build>
